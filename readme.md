@@ -1,0 +1,2 @@
+FoxReplace.json can be imported into FoxReplace, and probably certain other browser extensions.
+The replacement list is complete but unvetted, and is set by default to act on any page with `lojban` in the URL.

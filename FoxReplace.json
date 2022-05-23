@@ -1,0 +1,83 @@
+{
+  "version": "2.1",
+  "groups": [
+    {
+      "name": "",
+      "urls": [
+        "Lojban",
+        "lojban"
+      ],
+      "substitutions": [
+        {
+          "input": "bridi",
+          "inputType": "text",
+          "output": "CLAUSE",
+          "caseSensitive": false
+        },
+        {
+          "input": "jufra",
+          "inputType": "text",
+          "output": "SENTENCE",
+          "caseSensitive": false
+        },
+        {
+          "input": "selbri",
+          "inputType": "text",
+          "output": "VERB",
+          "caseSensitive": false
+        },
+        {
+          "input": "sumti",
+          "inputType": "text",
+          "output": "NOUN",
+          "caseSensitive": false
+        },
+        {
+          "input": "cmavo",
+          "inputType": "text",
+          "output": "PARTICLE",
+          "caseSensitive": false
+        },
+        {
+          "input": "rafsi",
+          "inputType": "text",
+          "output": "AFFIX",
+          "caseSensitive": false
+        },
+        {
+          "input": "cmevla",
+          "inputType": "text",
+          "output": "PROPER NOUN",
+          "caseSensitive": false
+        },
+        {
+          "input": "fu'ivla",
+          "inputType": "text",
+          "output": "LOANWORD",
+          "caseSensitive": false
+        },
+        {
+          "input": "lujvo",
+          "inputType": "text",
+          "output": "COMPOUND",
+          "caseSensitive": false
+        },
+        {
+          "input": "gismu",
+          "inputType": "text",
+          "output": "ROOT",
+          "caseSensitive": false
+        },
+        {
+          "input": "tanru",
+          "inputType": "text",
+          "output": "COMPOUND VERB",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    }
+  ]
+}
